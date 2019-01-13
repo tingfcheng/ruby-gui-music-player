@@ -58,10 +58,10 @@ class MusicPlayerMain < Gosu::Window
 		# array to the terminal
 		@albums = load_albums()
     @background = Gosu::Color::BLUE
-		@album_img1 = Gosu::Image.new("A.png", :tileable => true)
-		@album_img2 = Gosu::Image.new("B.png", :tileable => true)
-		@album_img3 = Gosu::Image.new("C.png", :tileable => true)
-		@album_img4 = Gosu::Image.new("D.png", :tileable => true)
+		@album_img1 = Gosu::Image.new("./img/A.png", :tileable => true)
+		@album_img2 = Gosu::Image.new("./img/B.png", :tileable => true)
+		@album_img3 = Gosu::Image.new("./img/C.png", :tileable => true)
+		@album_img4 = Gosu::Image.new("./img/D.png", :tileable => true)
     @info_font = Gosu::Font.new(30)
     @choice = -1
     @track_font = Gosu::Font.new(30)

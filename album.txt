@@ -1,137 +1,137 @@
 4
 Alone
 Alan Walker
-A.png
+./img/A.png
 15
 alone
-1.wav
+./audio/1.wav
 faded
-2.wav
+./audio/2.wav
 sing me to sleep
-3.wav
+./audio/3.wav
 fade
-4.wav
+./audio/4.wav
 Tried
-5.wav
+./audio/5.wav
 ignite
-6.wav
+./audio/6.wav
 alone remix1
-7.wav
+./audio/7.wav
 alone remix2
-8.wav
+./audio/8.wav
 routine
-9.wav
+./audio/9.wav
 faded remix1
-10.wav
+./audio/10.wav
 force
-11.wav
+./audio/11.wav
 sing me to sleep remix
-12.wav
+./audio/12.wav
 sing me to sleep instrumental
-13.wav
+./audio/13.wav
 thats what i like
-14.wav
+./audio/14.wav
 ignite instrumental
-15.wav
+./audio/15.wav
 Memories..Don Not Open
 The chainsmokers
-B.png
+./img/B.png
 15
 Something Just Like This
-1.wav
+./audio/1.wav
 Closer
-2.wav
+./audio/2.wav
 Paris
-3.wav
+./audio/3.wav
 The one
-4.wav
+./audio/4.wav
 Break Up Every Night
-5.wav
+./audio/5.wav
 Honest
-6.wav
+./audio/6.wav
 Young
-7.wav
+./audio/7.wav
 All We Know
-8.wav
+./audio/8.wav
 Dont Let Me Down
-9.wav
+./audio/9.wav
 Inside out
-10.wav
+./audio/10.wav
 Roses
-11.wav
+./audio/11.wav
 Until You Were Gone
-12.wav
+./audio/12.wav
 New York City
-13.wav
+./audio/13.wav
 Bloodsteam
-14.wav
+./audio/14.wav
 My type
-15.wav
+./audio/15.wav
 Mix Album
 All artist
-C.png
+./img/C.png
 15
 Mercy
-1.wav
+./audio/1.wav
 Treat You Better
-2.wav
+./audio/2.wav
 Side to side
-3.wav
+./audio/3.wav
 Youth
-4.wav
+./audio/4.wav
 It Aint Me
-5.wav
+./audio/5.wav
 Let Me Hold You
-6.wav
+./audio/6.wav
 Good Life
-7.wav
+./audio/7.wav
 Stay
-8.wav
+./audio/8.wav
 Beautiful Now
-9.wav
+./audio/9.wav
 Dangerous Woman
-10.wav
+./audio/10.wav
 Clarity
-11.wav
+./audio/11.wav
 lllusion
-12.wav
+./audio/12.wav
 Heathens
-13.wav
+./audio/13.wav
 We Dont tell anymore
-14.wav
+./audio/14.wav
 In the name of love
-15.wav
+./audio/15.wav
 Deluxe
 Ed sheeran
-D.png
+./img/D.png
 15
 Eraser
-1.wav
+./audio/1.wav
 Shape of you
-2.wav
+./audio/2.wav
 Perfect
-3.wav
+./audio/3.wav
 Happier
-4.wav
+./audio/4.wav
 Castle on the hill
-5.wav
+./audio/5.wav
 Galway Girl
-6.wav
+./audio/6.wav
 New Man
-7.wav
+./audio/7.wav
 Dive
-8.wav
+./audio/8.wav
 Barcelona
-9.wav
+./audio/9.wav
 One
-10.wav
+./audio/10.wav
 Sing
-11.wav
+./audio/11.wav
 Nina
-12.wav
+./audio/12.wav
 Runaway
-13.wav
+./audio/13.wav
 Take it back
-14.wav
+./audio/14.wav
 Photograph
-15.wav
+./audio/15.wav
